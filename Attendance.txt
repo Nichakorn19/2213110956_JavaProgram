@@ -1,4 +1,4 @@
 2213110956
 Nichakorn Songsiri
 Nichakorn19
-Control Statement & Confirm Dialog
+String Methods and Defined Method
