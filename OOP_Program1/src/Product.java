@@ -23,7 +23,14 @@ public class Product {
 		return price;
 	}
 	public double calculate() {
-		return unit*price;
+		double Total = unit*price;
+		return Total;
+	}
+	public boolean checkUnit() {
+		return unit>0;
+	}
+	public boolean checkPrice() {
+		return price>0;
 	}
 }
 
