@@ -1,5 +1,5 @@
-22-Dec-2022
-2213110956
-Nichakorn Songsiri
-Nichakorn19
-Class and Object, Array of Object
+Date : 12-Jan-2023
+StudentID : 2213110956
+Fullname : Nichakorn Songsiri
+AKA : Nichakorn19
+ClassDetail : GUI
